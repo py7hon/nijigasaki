@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^watch/([^/]*)$ /watch.php?id=$1 [L]
